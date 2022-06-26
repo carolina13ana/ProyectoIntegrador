@@ -1,5 +1,5 @@
 # ProyectoIntegrador
-Práctica del módulo Proyecto Integrador 
+Resolución de actividades de la primera etapa 
 
 # Definición de ceremonias en Scrum
 
@@ -8,4 +8,4 @@ Práctica del módulo Proyecto Integrador
 
 # Definición de Artefactos en Scrum
 
-# Definición de Roles en Scrum
+# Definición de roles en Scrum
