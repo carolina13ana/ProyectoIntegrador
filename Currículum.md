@@ -34,7 +34,7 @@
 * Fecha de egreso: 21 de diciembre del 2021
 * Título obtenido: Profesora de Educación Secundaria en Matemática
 
-* Institución: Instituto Superior Politécnico Córdoba (Actualmente cursando primer año en la modalidad virtual).
+* Institución: Instituto Superior Politécnico Córdoba (Actualmente cursando primer año)
 * Ubicación: Córdoba Capital, Argentina. 
 * Carrera: Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales 
  
