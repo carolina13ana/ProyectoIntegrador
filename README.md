@@ -6,6 +6,6 @@ Resolución de actividades de la primera etapa
 # Cuáles son las  ceremonias en Scrum?
 
 
-# Definición de Artefactos en Scrum
+# Definición de artefactos en Scrum
 
 # Definición de roles en Scrum
