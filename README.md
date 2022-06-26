@@ -8,4 +8,4 @@ Práctica del módulo Proyecto Integrador
 
 # Definición de Artefactos en Scrum
 
-# Definición de roles en Scrum
+# Definición de Roles en Scrum
