@@ -10,4 +10,4 @@ Resolución de actividades de la primera etapa
 
 # Definición de roles en Scrum
 
-texto de prueba
+holaaaaaa
