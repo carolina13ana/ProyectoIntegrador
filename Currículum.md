@@ -48,3 +48,4 @@ Docente practicante de matemática en el marco de la Práctica docente IV.
 * Institución: I.P.E.T. y M. n° 108 “Clotilde Guillén de Rezzano”.
 * Ubicación: Río Segundo, Córdoba, Argentina. 
 * Duración: Agosto-noviembre (2021)
+mas pruebas
