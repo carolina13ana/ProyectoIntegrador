@@ -15,8 +15,15 @@ Las ceremonias en Scrum son 4:
 Product Owner.
 - **Sprint Retrospective Meeting**:  Se produce al finalizar el Sprint y tiene por objeto documentar qué ha funcionado y qué no en el Sprint. La idea de dicha reunión es centrar al equipo en lo que salió bien y en lo que debe mejorar para la próxima iteración.
 
-<sub>Fuente: libro 1 "Scrum"- Bloque I- Proyecto Integrador</sub>
+<sub>Fuente: Libro 1 "Scrum"- Bloque I- Proyecto Integrador</sub>
 
 # Definición de artefactos en Scrum
+Son aquellos elementos físicos que se producen como resultado de la aplicación de Scrum. 
+Los tres principales artefactos o herramientas Scrum son: 
+- **Product Backlog** o Pila del producto: Es la principal fuente de información sobre el producto en Scrum, debe ser gestionado en exclusiva por el Product Owner.
+- **Sprint Backlog** o Pila del Sprint: Es una lista de elementos en los que trabajar durante la etapa de Sprint. Es un elemento para visualizar el trabajo a realizar durante cada Sprint y está gestionado por el equipo de desarrollo o development team. 
+- **Increment** o incremento: Es el resultado del Sprint, es la suma de todas las tareas y cualquier elemento que se haya desarrollado durante el Sprint de manera iterativa e incremental y que será puesto a disposición del usuario final en forma de software.
+
+<sub>Fuente: [Deloitte.com](https://www2.deloitte.com/es/es/pages/technology/articles/artefactos-scrum.html)</sub>
 
 # Definición de roles en Scrum
