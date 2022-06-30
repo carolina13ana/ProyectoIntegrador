@@ -34,4 +34,4 @@ Los roles en Scrum son 3:
 El equipo de desarrollo se encargará de crear un incremento terminado a partir de los elementos del Product Backlog seleccionados (Sprint Backlog) durante el Sprint Planning.
 
 <sub>Fuente: - [Deloitte.com](https://www2.deloitte.com/es/es/pages/technology/articles/roles-y-responsabilidades-scrum.html)</sub>
-             - Libro 1 "Scrum"- Bloque I- Proyecto Integrador
+<sub>Libro 1 "Scrum"- Bloque I- Proyecto Integrador</sub>
