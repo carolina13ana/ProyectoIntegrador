@@ -32,3 +32,5 @@ Los roles en Scrum son 3:
 - **Scrum master**: Tiene dos funciones principales dentro del marco de trabajo: gestionar el proceso Scrum y ayudar a eliminar impedimentos que puedan afectar a la entrega del producto. Además, se encarga de las labores de mentoring y formación, coaching y de facilitar reuniones y eventos si es necesario.
 - **Development team**: Equipo de profesionales que se encarga de desarrollar el producto, auto-organizándose y auto-gestionándose para conseguir entregar un incremento de software al final del ciclo de desarrollo.
 El equipo de desarrollo se encargará de crear un incremento terminado a partir de los elementos del Product Backlog seleccionados (Sprint Backlog) durante el Sprint Planning.
+
+<sub>Fuente: [Deloitte.com](https://www2.deloitte.com/es/es/pages/technology/articles/roles-y-responsabilidades-scrum.html)</sub>
