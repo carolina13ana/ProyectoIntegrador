@@ -17,7 +17,7 @@ Product Owner.
 
 <sub>Fuente: Libro 1 "Scrum"- Bloque I- Proyecto Integrador</sub>
 
-# Definición de artefactos en Scrum
+# Artefactos en Scrum
 Son aquellos elementos físicos que se producen como resultado de la aplicación de Scrum. 
 Los tres principales artefactos o herramientas Scrum son: 
 - **Product Backlog** o Pila del producto: Es la principal fuente de información sobre el producto en Scrum, debe ser gestionado en exclusiva por el Product Owner.
@@ -26,4 +26,9 @@ Los tres principales artefactos o herramientas Scrum son:
 
 <sub>Fuente: [Deloitte.com](https://www2.deloitte.com/es/es/pages/technology/articles/artefactos-scrum.html)</sub>
 
-# Definición de roles en Scrum
+# Roles en Scrum
+Los roles en Scrum son 3:
+- **Product owner**:Es el encargado de optimizar y maximizar el valor del producto, siendo la persona encargada de gestionar el flujo de valor del producto a través del Product Backlog.
+- **Scrum master**: Tiene dos funciones principales dentro del marco de trabajo: gestionar el proceso Scrum y ayudar a eliminar impedimentos que puedan afectar a la entrega del producto. Además, se encarga de las labores de mentoring y formación, coaching y de facilitar reuniones y eventos si es necesario.
+- **Development team**: Equipo de profesionales que se encarga de desarrollar el producto, auto-organizándose y auto-gestionándose para conseguir entregar un incremento de software al final del ciclo de desarrollo.
+El equipo de desarrollo se encargará de crear un incremento terminado a partir de los elementos del Product Backlog seleccionados (Sprint Backlog) durante el Sprint Planning.
