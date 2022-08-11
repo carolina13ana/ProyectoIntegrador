@@ -1,2 +1,0 @@
-Subi mi archivo de Workbench y el script está ahi adentro, pero por las dudas subo un bloc con el script a parte.
-Habría que revisar todo por las dudas de que este haciendo algo mal.
